@@ -1,0 +1,6 @@
+{
+	"name": "bu.bu2dpackage.editor",
+	"references": [
+        "bu.bu2dpackage.runtime"
+    ]
+}

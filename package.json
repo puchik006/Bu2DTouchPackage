@@ -1,0 +1,22 @@
+{
+  "name": "com.bu.bu2dpackage",
+  "version": "0.0.1",
+  "displayName": "Bu_2D_Touch_Package",
+  "description": "Package with helpful scripts and editor tools to work with 2D projects",
+  "unity": "2021.3",
+  "unityRelease": "11f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Pavel Buriachenko",
+    "email": "pahabu@gmail.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type": "tool"
+}
